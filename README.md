@@ -1,7 +1,7 @@
 <!-- ========================= -->
 <!-- 🎯 BANNIÈRE + BADGE + CTA -->
 <!-- ========================= -->
-
+<meta name="google-site-verification" content="ByLxufAlPqjbbCrSmDEGaQAnsCdpU-sPZSn2bXW9JUs" />
 [![AgenticFlow Promo](https://github.com/duchethenri-design/AgenticFlow/blob/main/images/AgenticFlow.png)](https://appsumo.8odi.net/9LRkE3)
 
 <p align="center">
